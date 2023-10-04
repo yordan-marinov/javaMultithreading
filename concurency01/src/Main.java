@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello from the new branch");
         System.out.println("Hello from the second new branch");
+        System.out.println("Hello from the second new branch from the git site");
     }
 }
